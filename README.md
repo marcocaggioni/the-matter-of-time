@@ -12,6 +12,10 @@
 
 View all exhibition panels: [Panels Documentation](./panels.md)
 
+## Exhibition Overview
+
+[Read the full exhibition overview](./Time%20Exhibit%20Overview.md)
+
 ## Podcast
 
 [Listen: AI Podcast](./AI_podcast.mp3)
