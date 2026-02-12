@@ -107,6 +107,29 @@ body {
     opacity: 0.8;
 }
 
+/* Simple Hero with Title Image */
+.hero-simple {
+    background: linear-gradient(135deg, var(--primary-color) 0%, var(--secondary-color) 100%);
+    padding: 40px 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: auto;
+}
+
+.title-image {
+    max-width: 800px;
+    width: 100%;
+}
+
+.title-image img {
+    width: 100%;
+    height: auto;
+    display: block;
+    border-radius: var(--border-radius);
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+}
+
 /* CTA Button */
 .cta-button {
     display: inline-block;
@@ -191,6 +214,33 @@ body {
 }
 
 .media-button.secondary:hover {
+    background-color: #d63648;
+}
+
+/* CTA Section */
+.cta-section {
+    padding: 60px 20px;
+    background: linear-gradient(135deg, var(--primary-color) 0%, var(--secondary-color) 100%);
+    text-align: center;
+    color: white;
+}
+
+.cta-section h2 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+
+.cta-section p {
+    font-size: 1.1rem;
+    margin-bottom: 2rem;
+    opacity: 0.95;
+}
+
+.cta-section .cta-button {
+    background-color: var(--accent-color);
+}
+
+.cta-section .cta-button:hover {
     background-color: #d63648;
 }
 
@@ -390,6 +440,14 @@ body {
         padding: 60px 20px;
     }
 
+    .hero-simple {
+        padding: 30px 20px;
+    }
+
+    .title-image {
+        max-width: 600px;
+    }
+
     .media-grid {
         grid-template-columns: 1fr;
     }
@@ -409,7 +467,8 @@ body {
 
     .media-section h2,
     .about-section h2,
-    .panels-preview h2 {
+    .panels-preview h2,
+    .cta-section h2 {
         font-size: 1.8rem;
     }
 
@@ -447,8 +506,24 @@ body {
         font-size: 0.9rem;
     }
 
+    .hero-simple {
+        padding: 20px 10px;
+    }
+
+    .title-image {
+        max-width: 100%;
+    }
+
     .cta-button {
         padding: 10px 20px;
         font-size: 0.9rem;
+    }
+
+    .cta-section h2 {
+        font-size: 1.4rem;
+    }
+
+    .cta-section p {
+        font-size: 0.95rem;
     }
 }
