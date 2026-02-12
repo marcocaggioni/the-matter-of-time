@@ -2,12 +2,7 @@
 
 ## Exhibition Video
 
-<video width="320" height="240" controls>
-  <source src="./Time exhibit NYE2026.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-[Watch: Time exhibit NYE2026](./Time%20exhibit%20NYE2026.mp4)
+[▶️ Watch: Time exhibit NYE2026](./Time%20exhibit%20NYE2026.mp4)
 
 ## Exhibition Panels
 
