@@ -340,6 +340,30 @@ body {
     margin: 0 auto;
 }
 
+/* Audio Player Section */
+.audio-player-section {
+    background: linear-gradient(135deg, var(--light-color) 0%, #f0f0f0 100%);
+    padding: 40px 20px;
+    border-bottom: 3px solid var(--accent-color);
+}
+
+.audio-player {
+    text-align: center;
+}
+
+.audio-player h2 {
+    font-size: 1.8rem;
+    margin-bottom: 20px;
+    color: var(--primary-color);
+}
+
+.audio-player audio {
+    width: 100%;
+    max-width: 600px;
+    height: 40px;
+    outline: none;
+}
+
 /* Panels Section */
 .panels-section {
     padding: 60px 20px;
