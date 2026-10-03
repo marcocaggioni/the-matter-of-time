@@ -2,461 +2,461 @@
   "nodes": [
     {
       "type": "text",
-      "x": 0,
-      "y": -820,
+      "x": -1520,
+      "y": -120,
       "width": 560,
       "height": 340,
       "color": "6",
-      "text": "# ⏱️ The Matter of Time\n## Virtual tour\n\nWelcome to the exhibit. Start with the trailer →, then follow the winding path through all 20 panels, in order.\n\n**How to navigate:** drag to pan · scroll or pinch to zoom · click a panel to focus it.\n\nEach stop pairs the panel with its curator notes.",
-      "id": "a1bb6f0389b32003"
+      "text": "# ⏱️ The Matter of Time\n## Virtual tour\n\nWelcome to the exhibit. Start with the trailer →, then follow the road through all 20 panels, in order.\n\n**How to navigate:** drag to pan · scroll or pinch to zoom · click a panel to focus it.\n\nEach stop pairs the panel with its curator notes.",
+      "id": "bc32348ea9d5ac9d"
     },
     {
       "type": "link",
-      "x": 620,
-      "y": -820,
+      "x": -900,
+      "y": -120,
       "width": 640,
       "height": 360,
       "url": "https://www.youtube.com/embed/G3tJlb4s8cI",
-      "id": "e6528fc16d6828f7"
+      "id": "d69a2f182306bebf"
     },
     {
       "type": "text",
       "x": 0,
-      "y": 0,
+      "y": 41,
       "width": 540,
       "height": 800,
       "text": "## Panel 1: What is time, then?\n\nThe theme of the New York Encounter this year invites us to look at our need for a place where our humanity is welcomed and nurtured in its truth. We had the desire to look at time, one of the fundamental dimensions of our human experience. We want to explore it, to be able to discover what it is and be helped to recognize where it is approached according to its real nature.\n\nWe live within space and time— dimensions that shape our existence. Yet among them, time stands out as the most mysterious and elusive. We are immersed in it from birth to death, constantly moving through it, yet rarely stopping to ask what it truly is or what role it plays in our lives.\n\nSaint Augustine (in the 4th century) expresses this in a very clear way: \"What is time, then? Who can easily and briefly explain it? Who even in thought can comprehend it, even to the pronouncing of a word concerning it? But what in speaking do we refer to more familiarly and knowingly than time? And certainly we understand when we speak of it; we understand also when we hear it spoken of by another. What, then, is time? If no one asks me, I know; if I wish to explain to him who asks, I know not.\"",
-      "id": "14fbec9c11a5666c"
+      "id": "d160ce9f03b8295b"
     },
     {
       "type": "file",
-      "x": 580,
-      "y": -230,
+      "x": -270,
+      "y": -1299,
       "width": 1080,
       "height": 1260,
       "file": "extracted_images/page_001.png",
-      "id": "8381fe1697e2d887"
+      "id": "a19eac2d694fd429"
     },
     {
       "type": "text",
-      "x": 1900,
-      "y": 0,
+      "x": 1750,
+      "y": 336,
       "width": 540,
       "height": 800,
       "text": "## Panel 2: What is time, then?\n\nIt is difficult for us to explain what time is, yet in the way we approach many life situations we have unspoken yet strong expectations about time, its role and its value. In today's fast-paced world, where instant results often seem ideal, time is often seen as something to manage, endure, or conquer rather than a gift to embrace.\n\nWe can all think of moments in our life that have challenged this idea of time as a purely incidental condition that we should be able to bend to the idea we have of it: when we have to face our own mistakes or the mistakes of others close to us; the experience of learning where understanding and knowing require more time than we expect; real-time news where understanding situations requires much more than the time needed to physically transfer information; we desire eternity thinking we should preserve youth forever, yet our bodies age with the passing of time.\n\nIn general we often move under the impression that waiting is a waste. Let's pose for a moment and explore how different ages and disciplines have understood the nature of time—and what these perspectives reveal about its meaning in our own lives.",
-      "id": "bf5f8ab974c28009"
+      "id": "431c379cd8168efd"
     },
     {
       "type": "file",
-      "x": 2480,
-      "y": -230,
+      "x": 1480,
+      "y": 1216,
       "width": 1080,
       "height": 1260,
       "file": "extracted_images/page_002.png",
-      "id": "625eaa6e7ae61dd7"
+      "id": "bb88a5578b043d10"
     },
     {
       "type": "text",
-      "x": 1900,
-      "y": 1420,
+      "x": 3500,
+      "y": 773,
       "width": 540,
       "height": 800,
       "text": "## Panel 3: The Experience of Time\n\nHow did we discover time? We want to understand what experience the word \"time\" is connected to. Here we list three different experiences the word time is connected to:\n\n**The experience of dividing:** The word \"time\" derives from the root \"deH\" or \"Tem\" (to cut). We cannot eat our meal when we want anymore due to time's divisions.\n\n**The experience of dealing with a precious and finite resource:** Benjamin Franklin famously says \"time is money\" and the verbs we use for time: spend, invest, save, waste... apply as well to money. More deeply Seneca describes how time is an invaluable gift that cannot be repaid or recovered like other debts.\n\n**Connection to motion (moment):** Aristoteles tries to define time connecting it to the experience of motion. Time is not the actual movement but the number of movements \"the number of changes\" that we can count. But if we need to count to discover time, what if there is nobody counting? Would there still be time?",
-      "id": "1ff384640b6cab97"
+      "id": "54354e3de239f2ce"
     },
     {
       "type": "file",
-      "x": 2480,
-      "y": 1190,
+      "x": 3230,
+      "y": -567,
       "width": 1080,
       "height": 1260,
       "file": "extracted_images/page_003.png",
-      "id": "c970616e2c4e8342"
+      "id": "ad18e3b03dfa9777"
     },
     {
       "type": "text",
-      "x": 0,
-      "y": 1420,
+      "x": 5250,
+      "y": 914,
       "width": 540,
       "height": 800,
       "text": "## Panel 4: TIME AND THE COSMOS\n\nHow did we come to know time? We started to count and divide it based on the observation of the \"cosmos\": the order around us. Many periodic, cyclical events that we can observe suggested how to make sense of time. Most of them are based on the observation of the sky:\n\n- The Day, looking at the sun raising and setting\n- The week looking at the 7 visible wanderers (planets) in the sky\n- The month, based on the observation of the lunar phases\n- The Seasons, based on the observation of the sun's position in the sky\n- The year, based on the observation of the fixed stars\n\nOur ancestors spent a lot of time looking at the sky and their experience was that everything rotated and repeated around them. So was their image of the cosmos—the universe was mostly circular, and also their idea of time.",
-      "id": "d2f5b04b8cdc0952"
+      "id": "74f86a23bc7000f0"
     },
     {
       "type": "file",
-      "x": 580,
-      "y": 1190,
+      "x": 4980,
+      "y": 1794,
       "width": 1080,
       "height": 1260,
       "file": "extracted_images/page_004.png",
-      "id": "3fd8f61176c2c6cb"
+      "id": "d401877af6cc146b"
     },
     {
       "type": "text",
-      "x": 0,
-      "y": 2840,
+      "x": 7000,
+      "y": 980,
       "width": 540,
       "height": 800,
       "text": "## Panel 5: From the Circle to the arrow of time\n\nMany ancient civilizations—such as the Greeks, Mayans, and Hindus—viewed time as a cyclical phenomenon where the universe repeats in endless loops of birth, death, and rebirth. It is the Judeo-Christian tradition that introduced a linear conception of history. St. Augustine was the one that formally argued in the 4th century that also time has a beginning at the moment of Creation.\n\nStephen Hawking expressed this: \"The concept of time has no meaning before the beginning of the universe. This was first pointed out by St. Augustine. When asked: What did God do before he created the universe? Augustine didn't reply: He was preparing Hell for people who asked such questions. Instead, he said that time was a property of the universe that God created, and that time did not exist before the beginning of the universe.\"\n\nTime has a beginning, a middle point and possibly an end. Today most of the world uses the birth of Christ as the year zero. We also see Luigi Giussani's representation of the arrow of time, the history indicated by the horizontal line, and the religions as diagonal arrows attempting to reach the mystery outside time.",
-      "id": "995d091e6dd1b423"
+      "id": "d0a8d8a789c8ba33"
     },
     {
       "type": "file",
-      "x": 580,
-      "y": 2610,
+      "x": 6730,
+      "y": -360,
       "width": 1080,
       "height": 1260,
       "file": "extracted_images/page_005.png",
-      "id": "5d267faa82232391"
+      "id": "3fd789507c4a14cc"
     },
     {
       "type": "text",
-      "x": 1900,
-      "y": 2840,
+      "x": 8750,
+      "y": 651,
       "width": 540,
       "height": 800,
       "text": "## Panel 6: The Pendulum\n\nLegend has it that Galileo Galilei (1564–1642) made his first scientific discovery when he was a teenage medical student. While attending Mass at Pisa Cathedral, he noticed a chandelier swaying overhead. He observed, timing it with his pulse, that it always took the same time to complete its swing whether it traversed a wide arc or a small one. This surprised him: How could a big swing and a little swing take the same amount of time?\n\nGalileo discovered a way to keep track and count time that was precise and controllable. In 1657, Christiaan Huygens mathematically derived the formula for the period of a pendulum and invented the first pendulum clock. This invention revolutionized timekeeping, reducing the average daily error of clocks from about 15 minutes to just 15 seconds!\n\nTo make a clock you just need to count the ticks and keep track of the number. The pendulum clock is essentially a system of gears that count the ticks and move the hands of the clock.",
-      "id": "48352eeb65ba8a03"
+      "id": "49e95bcb236e14f7"
     },
     {
       "type": "file",
-      "x": 2480,
-      "y": 2610,
+      "x": 8480,
+      "y": 1531,
       "width": 1080,
       "height": 1260,
       "file": "extracted_images/page_006.png",
-      "id": "ea912d37ca6db66e"
+      "id": "3340ad1b7178f1c7"
     },
     {
       "type": "text",
-      "x": 1900,
-      "y": 4260,
+      "x": 10500,
+      "y": 258,
       "width": 540,
       "height": 800,
       "text": "## Panel 7: THE HISTORY OF TIME MEASUREMENT\n\nFrom that moment our ability to measure time increasingly accurately has improved dramatically over the centuries. This progression includes:\n\n**1761:** John Harrison's H4 chronometer was the first timepiece that could be used reliably by mariners. It relied on a coiled steel spring to keep time in a manner not susceptible to a ship's motion, enabling accurate determination of longitude at sea for the first time.\n\n**1921:** The quartz oscillator was the first timekeeping device that did not rely on mechanical methods. A voltage is applied to a quartz crystal, causing it to vibrate at a reliable frequency due to the piezoelectric effect.\n\n**1956:** Louis Essen in the U.K. developed the first practical atomic clock based on oscillations of the Cesium-133 atom. Time standards shifted from astronomical to atomic. The second was redefined as 9,192,631,770 cycles of the hyperfine energy transition of 133Ce.\n\nLike Aristoteles suggested, to define time we need to count the number of some periodic events. The atomic clock is the core technology for GPS satellites that send signals at very constant intervals of time.",
-      "id": "0ff2c6ab697de204"
+      "id": "809ac42dfda2f892"
     },
     {
       "type": "file",
-      "x": 2480,
-      "y": 4030,
+      "x": 10230,
+      "y": -1082,
       "width": 1080,
       "height": 1260,
       "file": "extracted_images/page_007.png",
-      "id": "04ddc3ad3bbef400"
+      "id": "56d1f4af32a4ddcb"
     },
     {
       "type": "text",
-      "x": 0,
-      "y": 4260,
+      "x": 12250,
+      "y": -474,
       "width": 540,
       "height": 800,
       "text": "## Panel 8: THE DIRECTION OF TIME\n\nWhat distinguishes the past from the future? Richard Feynman noted: \"Even without an experiment, our very experiences of past and future are completely different. We remember the past… Yet in all the laws of physics that we've found so far, there doesn't seem to be any distinction between the past and the future…\"\n\nThe fundamental laws of physics are symmetric with respect to time. Only looking at more complex processes, involving many objects and interactions we get clues about the arrow of time.\n\nThe Second Law of Thermodynamics, postulated by R. Clausius in 1865, is the first physics law which embeds the direction of time in its definition: \"The entropy of an isolated system will remain the same or increase over time.\"\n\nImagine two blocks at different temperatures. As soon as they make contact, they start to exchange energy from hot to cold. Eventually they reach the same temperature, the state of maximum entropy. Our experience tells us that this process cannot reverse itself—we never see a cold block spontaneously become hot while another becomes cold. Time has a direction.",
-      "id": "28705c34af794380"
+      "id": "d25799d71c38d2b6"
     },
     {
       "type": "file",
-      "x": 580,
-      "y": 4030,
+      "x": 11980,
+      "y": 406,
       "width": 1080,
       "height": 1260,
       "file": "extracted_images/page_008.png",
-      "id": "07898960bf8cc36b"
+      "id": "9f87c234418b394b"
     },
     {
       "type": "text",
-      "x": 0,
-      "y": 5680,
+      "x": 14000,
+      "y": -780,
       "width": 540,
       "height": 800,
       "text": "## Panel 9: TIME at the EXTREMES: SPECIAL RELATIVITY\n\nThe exploration of phenomena far from our day-to-day experience challenged the classical idea of time. A finite speed of light (300,000 km/s) implies that we always see into the past! The delay is negligible on terrestrial scales, but important on astrophysical and cosmological distances.\n\nEinstein discovered that the speed of light is always the same, even when the object emitting the light is moving. This is counterintuitive but true. Albert Einstein explained this phenomenon in his famous Theory of Special Relativity (1905), introducing the idea that time and space are not independent, but constitute spacetime, a single flexible entity.\n\nA crucial consequence: if the speed of light is constant, the same event will have a different duration depending on the state of motion relative to the observer—time dilation. An observer moving relative to a clock will measure it ticking more slowly than an observer at rest with the clock.\n\nTime dilation has been measured in atomic clocks on planes flying around the earth and is observed daily for subatomic particles like muons moving close to the speed of light.",
-      "id": "c0fa7651cad9fcaf"
+      "id": "e3ba589a48d57b3c"
     },
     {
       "type": "file",
-      "x": 580,
-      "y": 5450,
+      "x": 13730,
+      "y": -2120,
       "width": 1080,
       "height": 1260,
       "file": "extracted_images/page_009.png",
-      "id": "40f7ed3777a3175e"
+      "id": "aa17164be5ef33ee"
     },
     {
       "type": "text",
-      "x": 1900,
-      "y": 5680,
+      "x": 15750,
+      "y": -1118,
       "width": 540,
       "height": 800,
       "text": "## Panel 10: TIME and GRAVITY: GENERAL RELATIVITY\n\nWith general relativity, we take a further step. Space and time are not fixed, but they are modified by energy and matter. Time is slower closer to a massive object. Gravitational time dilation needs to be accounted for for GPS to work, and its effect is dramatic close to very massive objects such as black holes.\n\nAlbert Einstein's theory says that mass tells space how to curve and space tells mass how to move. Beyond predicting exotic phenomena such as black holes, another consequence of Einstein's theory is that if massive objects are orbiting around one another they create gravitational waves—ripples in the fabric of spacetime that travel at the speed of light and carry information about the system that created them.",
-      "id": "7aa67bc84c8c5b6a"
+      "id": "011b7a5d91727cb8"
     },
     {
       "type": "file",
-      "x": 2480,
-      "y": 5450,
+      "x": 15480,
+      "y": -238,
       "width": 1080,
       "height": 1260,
       "file": "extracted_images/page_010.png",
-      "id": "490ff9480aafa1a6"
+      "id": "ce1f2227b7790eb8"
     },
     {
       "type": "text",
-      "x": 1900,
-      "y": 7100,
+      "x": 17500,
+      "y": -1043,
       "width": 540,
       "height": 800,
       "text": "## Panel 11: COSMIC TIMEKEEPING: RADIO PULSARS\n\nWe have seen how clocks work. Our galaxy is provided with its own set of clocks—radio pulsars. Their regularity is such that in some cases they are more stable than atomic clocks. These precise clocks allow us to look for modifications of spacetime induced by gravitational waves.\n\nPulsars were first discovered by Dame Jocelyn Bell Burnell in 1967. Pulsars are very dense collapsed stars that spin very quickly. Just as a figure skater spins more quickly when she pulls in her arms, when a big star collapses to form a neutron star, the rotation speeds up until some neutron stars spin as fast as a blender. \n\nNeutron stars also have very strong magnetic fields, not lined up with the star's rotation, which is why we get a \"lighthouse\" effect. Particles are accelerated along the magnetic field and create beams of radio light—these were first discovered by Bell as radio pulses.",
-      "id": "5f4d4b6798441cc2"
+      "id": "c0341698a6a05d4a"
     },
     {
       "type": "file",
-      "x": 2480,
-      "y": 6870,
+      "x": 17230,
+      "y": -2383,
       "width": 1080,
       "height": 1260,
       "file": "extracted_images/page_011.png",
-      "id": "a4ffa4451ceadb29"
+      "id": "af362f0e3c43f260"
     },
     {
       "type": "text",
-      "x": 0,
-      "y": 7100,
+      "x": 19250,
+      "y": -703,
       "width": 540,
       "height": 800,
       "text": "## Panel 12: THE TIME of the COSMOS\n\nWe have seen that Einstein's theories manifest that space and time are interconnected and dynamical. Hubble's observations in the 1930s showed that our Universe is not fixed, but is expanding. If the Universe is now expanding, in the past it was smaller and denser. Taking this to the extreme would imply a moment with infinite density of energy: the Big Bang.\n\nToday we are able to observe the cosmic afterglow of this explosion—the Cosmic Microwave Background (CMB), light from the early Universe only 400 thousand years after the Big Bang, or 14.1 billion years ago! These observations reveal an extremely homogeneous Universe, which led to the Theory of Inflation: A tiny uniform region of space expanded exponentially to cosmic size within the first fraction of a second after the Big Bang.\n\nInflation explains why the universe looks the same everywhere. Most fundamental interactions treat matter and antimatter identically, yet today we observe no antimatter—all structures around us are made of matter. Finding the explanation for this asymmetry is one of the biggest unsolved mysteries in science.",
-      "id": "6abe207b4f057e5f"
+      "id": "c882ef24d26ebb83"
     },
     {
       "type": "file",
-      "x": 580,
-      "y": 6870,
+      "x": 18980,
+      "y": 177,
       "width": 1080,
       "height": 1260,
       "file": "extracted_images/page_012.png",
-      "id": "c9ed6c87f09d7b77"
+      "id": "65765cff453d5b3b"
     },
     {
       "type": "text",
-      "x": 0,
-      "y": 8520,
+      "x": 21000,
+      "y": -421,
       "width": 540,
       "height": 800,
       "text": "## Panel 13: THE TIME of the COSMOS\n\nThe expansion of our Universe implies that particles depart from thermal equilibrium—a condition necessary for life! The formation of light elements took place in the first 20 minutes of the Universe. At this time, the Universe mostly contains nuclei of hydrogen and helium.\n\nIt then took 400 thousand years for the Universe to be cool enough for the existence of stable hydrogen atoms. This is about the time that light and matter decouple, the time of the CMB. Once the Universe reaches lower temperatures the cosmic evolution is only influenced by gravity—leading to the formation of the first stars (100 million years) and galaxies (1 billion years).\n\nHeavier elements can be created only after the first stars turned on. The long time required for the life and death of the first generation of stars (about 1 billion years) was necessary to synthesize carbon, nitrogen and oxygen, some of the elements essential for life.",
-      "id": "755739db2ac23af5"
+      "id": "127443acaa302c08"
     },
     {
       "type": "file",
-      "x": 580,
-      "y": 8290,
+      "x": 20730,
+      "y": -1761,
       "width": 1080,
       "height": 1260,
       "file": "extracted_images/page_013.png",
-      "id": "8cb96b882e0d907e"
+      "id": "a4e78e749b7286c3"
     },
     {
       "type": "text",
-      "x": 1900,
-      "y": 8520,
+      "x": 22750,
+      "y": 124,
       "width": 540,
       "height": 800,
       "text": "## Panel 14: BIOLOGICAL EVOLUTION: TIME SHAPES LIFE\n\nFrom the evolution of the Universe we move to the evolution of life. The evolution of life on Earth was also a long process, which started about 4 billion years ago. The process that shaped life as we know it is called Natural Selection, a mechanism in which individuals with heritable traits conferring survival or reproductive benefits produce more offspring.\n\nThe environment plays a very important role in favoring some traits over others: traits that can be beneficial in a desert, such as the ability to store water, are not beneficial in other environments. What traits were \"beneficial\" throughout the evolution of life was a moving target. Innumerable forms of life flourished and perished in the past 4 billion years—humans are just at the very tip of this huge family tree.\n\nAt the core of this section: life was shaped THROUGH Time, and also that life was shaped BY Time—by the experience of Time we have on Earth. Individuals who could better deal with our experience of time were more likely to survive and spread.",
-      "id": "df1329eed12d00fd"
+      "id": "a49d9ebd40f4b6f0"
     },
     {
       "type": "file",
-      "x": 2480,
-      "y": 8290,
+      "x": 22480,
+      "y": 1004,
       "width": 1080,
       "height": 1260,
       "file": "extracted_images/page_014.png",
-      "id": "05e1f365fdd9ff23"
+      "id": "6a689eeaf8a2e70d"
     },
     {
       "type": "text",
-      "x": 1900,
-      "y": 9940,
+      "x": 24500,
+      "y": 701,
       "width": 540,
       "height": 800,
       "text": "## Panel 15: RHYTHMS IN NATURE\n\nThe most evident beneficial traits are the ways in which organisms \"synchronize\" to nature's cycles: the seasons cycle every year, the moon cycle approximately every month, and obviously the daily cycle of day and night, light and dark.\n\nExamples of \"circannual rhythms\" (rhythms with a period of approximately one year) are animal migrations, hibernation during the cold season, and leaf shedding. Examples of \"circalunar rhythms\" are rare in nature but some exist: some fish synchronize their reproductive cycles with lunar cycles.\n\nThe rhythms most known and evident in our human experience are \"circadian rhythms\" (from latin \"circa\" = approximately, and \"diem\" = day), which are those rhythms synchronized to the 24-hour period of the Earth's rotation. The most fascinating aspect is that they are not determined by external cues such as light and dark, but are set by an internal clock. Jean Jacques D'Ortous De Mairan verified that mimosa plants open their leaves during the day and close them during the night even when placed in constant darkness.\n\nCircadian rhythms in humans are synchronized by a master clock in our brain (the suprachiasmatic nuclei) which receives information about light and darkness and resets the internal clocks present in every single cell of our body. These rhythms are written in our DNA: they are heritable traits that proved beneficial and spread generation after generation.",
-      "id": "96378e77d955f75b"
+      "id": "917ebf94f35204b1"
     },
     {
       "type": "file",
-      "x": 2480,
-      "y": 9710,
+      "x": 24230,
+      "y": -639,
       "width": 1080,
       "height": 1260,
       "file": "extracted_images/page_015.png",
-      "id": "7f7fd7b514a6b726"
+      "id": "92a1227ccc7157c7"
     },
     {
       "type": "text",
-      "x": 0,
-      "y": 9940,
+      "x": 26250,
+      "y": 951,
       "width": 540,
       "height": 800,
       "text": "## Panel 16: THE TIMES OF THE BRAIN\n\nWe turn now to the experience of time our brain has. A characteristic shared by every organism with at least two or three neurons is the need to sleep approximately one third of its life. Why would such a trait evolve? Interesting examples: dolphins put only half of their brain to sleep at a time to surface for breath; migrating birds can sleep while flying with just half of their brain asleep to watch for predators.\n\nWhile we sleep our brain cleans itself. During the day, brain connections strengthen and increase (we store data, we learn). This process consumes energy and takes physical space. During sleep, these connections diminish, but the proportions between them are maintained. In the morning our brain is different, it has learned and cleaned up. Sleep is the price we pay for plasticity.\n\nThe second experience our brain has of time is the delay between an external stimulus and our consciousness and the need to understand event synchrony: each input from outside arrives at the brain at slightly different times. Our brain evolved to consider synchronous everything received within 100 milliseconds. Once the data is processed, approximately 300 milliseconds have gone by. Therefore, we are always late!",
-      "id": "34d9af1336a6f9db"
+      "id": "1cb8b9144d70c743"
     },
     {
       "type": "file",
-      "x": 580,
-      "y": 9710,
+      "x": 25980,
+      "y": 1831,
       "width": 1080,
       "height": 1260,
       "file": "extracted_images/page_016.png",
-      "id": "f1567596cb7574f4"
+      "id": "1d0a9bce7107e56c"
     },
     {
       "type": "text",
-      "x": 0,
-      "y": 11360,
+      "x": 28000,
+      "y": 905,
       "width": 540,
       "height": 800,
       "text": "## Panel 17: MEMORY: WHERE TIME'S ARROW IS BENT\n\nThis panel looks at our brain's ability to retain information: Memory. In physics, we discussed how time's arrow is irreversible. Yet our brain has the remarkable ability to remember past happenings. When one thinks today about what one did yesterday, time's arrow is bent into a loop. The rememberer has mentally traveled back into her past and thus violated the law of the irreversibility of the flow of time.\n\nMemory underlies everything we do: our behavior, relationships, career. What is described as \"mental time travel\" is our ability to remember specific events from our past experience—Episodic Memory. It includes information about the what, where, and when of an event.\n\nThere exist different types of memory: \"nondeclarative memory\" (non-conscious memory like muscle memory), and \"declarative memory\" which includes episodic memory, working memory (short term memory), and semantic memory (memory of factual knowledge).\n\nEpisodic memory involves several regions of our brain, but an important role is played by the Medial Temporal Lobe and specifically the Hippocampus. Interestingly, the regions involved in episodic memory are the same that activate when we imagine something that could happen in the future. Our brain bends time's arrow.",
-      "id": "053f850cfc53472a"
+      "id": "9fe8d029b7e6b827"
     },
     {
       "type": "file",
-      "x": 580,
-      "y": 11130,
+      "x": 27730,
+      "y": -435,
       "width": 1080,
       "height": 1260,
       "file": "extracted_images/page_017.png",
-      "id": "fab4fa0a81341fa1"
+      "id": "71221b894479d7fd"
     },
     {
       "type": "text",
-      "x": 1900,
-      "y": 11360,
+      "x": 29750,
+      "y": 825,
       "width": 540,
       "height": 800,
       "text": "## Panel 18: So, What is Time?\n\nWe are at the end of our exploration of the nature of time. We want to underline that time is the dimension that accounts for change. Our universe is a \"developing\" universe, as are all the creatures that populate it. Luigi Giussani said: \"…time has meaning precisely as change; change is the weight, the density of time.\"\n\nThe Universe that is home to human life is linked in its very nature to time, the dimension that accounts for change. This change began at the very birth of our universe (inflation and the Big Bang) and has continued ever since. This \"developing\" in nature does not happen instantaneously or all at once, but can be described through stages that follow a causal direction.\n\nAt the macroscopic level time appears to be statistically irreversible. Nature's change, as much as directional, can also be described by cycles that follow very specific rhythms. This characteristic of our \"developing\" universe is the very property that allows us to measure time.\n\nTime, together with space, forms spacetime, a physical entity modified by the state of motion of an object or the presence of energy/mass. The measurement of time is not absolute, but relative to the conditions under which it is made.",
-      "id": "185d4a218106ab62"
+      "id": "2c242651dfe37e14"
     },
     {
       "type": "file",
-      "x": 2480,
-      "y": 11130,
+      "x": 29480,
+      "y": 1705,
       "width": 1080,
       "height": 1260,
       "file": "extracted_images/page_018.png",
-      "id": "e88840d15b7cb168"
+      "id": "7f41ce75a57c7db8"
     },
     {
       "type": "text",
-      "x": 1900,
-      "y": 12780,
+      "x": 31500,
+      "y": 504,
       "width": 540,
       "height": 800,
       "text": "## Panel 19: What is time for?\n\nWe conclude this exploration on the nature of time offering a couple of last comments: Every sincere human exploration desires and aspires to the truth, that truth that reflects the essence of reality allowing us to interact with it in an intelligent way, respectful of its characteristics and its purpose.\n\nWhen exploring the truth about time, we need to consider that the more we explore a reality, the more we become aware of layers of complexity and richness of scenarios we had not imagined before, so our understanding must constantly stretch and correct itself.\n\nTo know the truth about something involves, but is not limited to, the analytical understanding of its dynamisms and processes. To reach the truth requires an exploration of its purpose within the big picture of the totality of reality—its meaning. We need to observe both parts and the whole if we desire to journey towards the Truth.\n\nThis is why this exhibit invites us now to open the question: what is time for? What is its purpose and its meaning in the life of our universe and in our own?",
-      "id": "c1a8d3a6bda99bf7"
+      "id": "d7f0843b64c4ef0f"
     },
     {
       "type": "file",
-      "x": 2480,
-      "y": 12550,
+      "x": 31230,
+      "y": -836,
       "width": 1080,
       "height": 1260,
       "file": "extracted_images/page_019.png",
-      "id": "895b48dbf44130e6"
+      "id": "253a74b5b69c7aa0"
     },
     {
       "type": "text",
-      "x": 0,
-      "y": 12780,
+      "x": 33250,
+      "y": -223,
       "width": 540,
       "height": 800,
       "text": "## Panel 20: A Question for You\n\nThis is a question that we all need to ask and answer for ourselves. We conclude with this quote that proposes an answer through the words of Franco Nembrini, in a comment to Dante's Purgatory:\n\n\"Time, in fact, is the place of God's patience: it gives us time to understand who we are, what our heart desires deep down, what we are here for, and where our happiness truly lies. In other words: time is the space God needs to respect our freedom. \n\nTime, however, is also the place of our patience. Because we learn not to let ourselves be discouraged by mistakes, failures, and relapses. Because we learn that the problem isn't falling: the problem is getting up again, grasping the hand that is offered to us each time.\"",
-      "id": "9c2a8db942daf5d2"
+      "id": "a694c9053f6dd2be"
     },
     {
       "type": "file",
-      "x": 580,
-      "y": 12550,
+      "x": 32980,
+      "y": 657,
       "width": 1080,
       "height": 1260,
       "file": "extracted_images/page_020.png",
-      "id": "2c1a7be1833372e4"
+      "id": "79e8ea6b62dd119d"
     },
     {
       "type": "group",
-      "x": -60,
-      "y": -330,
-      "width": 3680,
-      "height": 1420,
+      "x": -340,
+      "y": -1409,
+      "width": 2970,
+      "height": 3945,
       "label": "❓ The Question",
-      "id": "52d2d6d7ab34d74c"
+      "id": "a7896565169e04c9"
     },
     {
       "type": "group",
-      "x": 1840,
-      "y": 1090,
-      "width": 1780,
-      "height": 1420,
+      "x": 3160,
+      "y": -677,
+      "width": 1220,
+      "height": 2310,
       "label": "👁️ Discovering Time",
-      "id": "e74593679bd7b771"
+      "id": "1fd3e92153b0b848"
     },
     {
       "type": "group",
-      "x": -60,
-      "y": 1090,
-      "width": 1780,
-      "height": 2840,
+      "x": 4910,
+      "y": -470,
+      "width": 2970,
+      "height": 3584,
       "label": "🌌 Cosmos",
-      "id": "ee2d4775b31b3e1c"
+      "id": "a3220f85b3c575f3"
     },
     {
       "type": "group",
-      "x": 1840,
-      "y": 2510,
-      "width": 1780,
-      "height": 2840,
+      "x": 8410,
+      "y": -1192,
+      "width": 2970,
+      "height": 4043,
       "label": "⏱️ Measuring Time",
-      "id": "e6d02f51c1bab88a"
+      "id": "6910da2369d84142"
     },
     {
       "type": "group",
-      "x": -60,
-      "y": 3930,
-      "width": 3680,
-      "height": 5680,
+      "x": 11910,
+      "y": -2493,
+      "width": 9970,
+      "height": 4219,
       "label": "⚛️ Physics of Time",
-      "id": "59351c8242ca90bc"
+      "id": "1f135c60d21e11d4"
     },
     {
       "type": "group",
-      "x": 1840,
-      "y": 8190,
-      "width": 1780,
-      "height": 2840,
+      "x": 22410,
+      "y": -749,
+      "width": 2970,
+      "height": 3073,
       "label": "🌿 Time & Life",
-      "id": "d48586e7da48cb12"
+      "id": "8beb99a624bf97d6"
     },
     {
       "type": "group",
-      "x": -60,
-      "y": 9610,
-      "width": 1780,
-      "height": 2840,
+      "x": 25910,
+      "y": -545,
+      "width": 2970,
+      "height": 3696,
       "label": "🧠 The Brain",
-      "id": "bb30fa8f63321640"
+      "id": "1bb1c02b76a1f0ba"
     },
     {
       "type": "group",
-      "x": -60,
-      "y": 11030,
-      "width": 3680,
-      "height": 2840,
+      "x": 29410,
+      "y": -946,
+      "width": 4720,
+      "height": 3971,
       "label": "💫 Meaning",
-      "id": "dc8e715174c31391"
+      "id": "32fb6429645d2d96"
     }
   ],
   "edges": [
     {
-      "id": "162a15f647e54564",
-      "fromNode": "a1bb6f0389b32003",
-      "toNode": "e6528fc16d6828f7",
+      "id": "7093a5e22cf71035",
+      "fromNode": "bc32348ea9d5ac9d",
+      "toNode": "d69a2f182306bebf",
       "fromSide": "right",
       "toSide": "left",
       "fromEnd": "none",
@@ -464,9 +464,9 @@
       "label": "watch first"
     },
     {
-      "id": "ec4b34bf0c4bf4de",
-      "fromNode": "14fbec9c11a5666c",
-      "toNode": "8381fe1697e2d887",
+      "id": "e9445abbbe4f38fa",
+      "fromNode": "d160ce9f03b8295b",
+      "toNode": "a19eac2d694fd429",
       "fromSide": "right",
       "toSide": "left",
       "fromEnd": "none",
@@ -474,9 +474,9 @@
       "label": "panel"
     },
     {
-      "id": "b3c21d873227c412",
-      "fromNode": "bf5f8ab974c28009",
-      "toNode": "625eaa6e7ae61dd7",
+      "id": "20fba002ed3f31e6",
+      "fromNode": "431c379cd8168efd",
+      "toNode": "bb88a5578b043d10",
       "fromSide": "right",
       "toSide": "left",
       "fromEnd": "none",
@@ -484,9 +484,9 @@
       "label": "panel"
     },
     {
-      "id": "c75d4e1cb2a2a40c",
-      "fromNode": "1ff384640b6cab97",
-      "toNode": "c970616e2c4e8342",
+      "id": "ebcad9856c073215",
+      "fromNode": "54354e3de239f2ce",
+      "toNode": "ad18e3b03dfa9777",
       "fromSide": "right",
       "toSide": "left",
       "fromEnd": "none",
@@ -494,9 +494,9 @@
       "label": "panel"
     },
     {
-      "id": "f840edb4222f809f",
-      "fromNode": "d2f5b04b8cdc0952",
-      "toNode": "3fd8f61176c2c6cb",
+      "id": "7dfb777603acba92",
+      "fromNode": "74f86a23bc7000f0",
+      "toNode": "d401877af6cc146b",
       "fromSide": "right",
       "toSide": "left",
       "fromEnd": "none",
@@ -504,9 +504,9 @@
       "label": "panel"
     },
     {
-      "id": "b4099a1062d9f4bc",
-      "fromNode": "995d091e6dd1b423",
-      "toNode": "5d267faa82232391",
+      "id": "515d514aa9b04476",
+      "fromNode": "d0a8d8a789c8ba33",
+      "toNode": "3fd789507c4a14cc",
       "fromSide": "right",
       "toSide": "left",
       "fromEnd": "none",
@@ -514,9 +514,9 @@
       "label": "panel"
     },
     {
-      "id": "dc7636085c987bec",
-      "fromNode": "48352eeb65ba8a03",
-      "toNode": "ea912d37ca6db66e",
+      "id": "a4742ff3aa86ff06",
+      "fromNode": "49e95bcb236e14f7",
+      "toNode": "3340ad1b7178f1c7",
       "fromSide": "right",
       "toSide": "left",
       "fromEnd": "none",
@@ -524,9 +524,9 @@
       "label": "panel"
     },
     {
-      "id": "ec7df8000c33cb09",
-      "fromNode": "0ff2c6ab697de204",
-      "toNode": "04ddc3ad3bbef400",
+      "id": "75d3eec9f93fa0ed",
+      "fromNode": "809ac42dfda2f892",
+      "toNode": "56d1f4af32a4ddcb",
       "fromSide": "right",
       "toSide": "left",
       "fromEnd": "none",
@@ -534,9 +534,9 @@
       "label": "panel"
     },
     {
-      "id": "c0f9b2529030c98c",
-      "fromNode": "28705c34af794380",
-      "toNode": "07898960bf8cc36b",
+      "id": "2935686f9d6b225a",
+      "fromNode": "d25799d71c38d2b6",
+      "toNode": "9f87c234418b394b",
       "fromSide": "right",
       "toSide": "left",
       "fromEnd": "none",
@@ -544,9 +544,9 @@
       "label": "panel"
     },
     {
-      "id": "fc849035862503ca",
-      "fromNode": "c0fa7651cad9fcaf",
-      "toNode": "40f7ed3777a3175e",
+      "id": "f81ed18e5468dd3a",
+      "fromNode": "e3ba589a48d57b3c",
+      "toNode": "aa17164be5ef33ee",
       "fromSide": "right",
       "toSide": "left",
       "fromEnd": "none",
@@ -554,9 +554,9 @@
       "label": "panel"
     },
     {
-      "id": "66222a8c03a696cb",
-      "fromNode": "7aa67bc84c8c5b6a",
-      "toNode": "490ff9480aafa1a6",
+      "id": "7ef8573e652d6d1f",
+      "fromNode": "011b7a5d91727cb8",
+      "toNode": "ce1f2227b7790eb8",
       "fromSide": "right",
       "toSide": "left",
       "fromEnd": "none",
@@ -564,9 +564,9 @@
       "label": "panel"
     },
     {
-      "id": "4906db3638b89173",
-      "fromNode": "5f4d4b6798441cc2",
-      "toNode": "a4ffa4451ceadb29",
+      "id": "18ab311e81c24776",
+      "fromNode": "c0341698a6a05d4a",
+      "toNode": "af362f0e3c43f260",
       "fromSide": "right",
       "toSide": "left",
       "fromEnd": "none",
@@ -574,9 +574,9 @@
       "label": "panel"
     },
     {
-      "id": "da3cf8dc4f6d64b2",
-      "fromNode": "6abe207b4f057e5f",
-      "toNode": "c9ed6c87f09d7b77",
+      "id": "9e1721d25035893d",
+      "fromNode": "c882ef24d26ebb83",
+      "toNode": "65765cff453d5b3b",
       "fromSide": "right",
       "toSide": "left",
       "fromEnd": "none",
@@ -584,9 +584,9 @@
       "label": "panel"
     },
     {
-      "id": "bc82fc0f9f121d41",
-      "fromNode": "755739db2ac23af5",
-      "toNode": "8cb96b882e0d907e",
+      "id": "79d85278dd38d33b",
+      "fromNode": "127443acaa302c08",
+      "toNode": "a4e78e749b7286c3",
       "fromSide": "right",
       "toSide": "left",
       "fromEnd": "none",
@@ -594,9 +594,9 @@
       "label": "panel"
     },
     {
-      "id": "2c01434eb7fced5e",
-      "fromNode": "df1329eed12d00fd",
-      "toNode": "05e1f365fdd9ff23",
+      "id": "13be25627cc2a875",
+      "fromNode": "a49d9ebd40f4b6f0",
+      "toNode": "6a689eeaf8a2e70d",
       "fromSide": "right",
       "toSide": "left",
       "fromEnd": "none",
@@ -604,9 +604,9 @@
       "label": "panel"
     },
     {
-      "id": "fc8d6a935eeb16d9",
-      "fromNode": "96378e77d955f75b",
-      "toNode": "7f7fd7b514a6b726",
+      "id": "2d70a8bf6b9d8bb8",
+      "fromNode": "917ebf94f35204b1",
+      "toNode": "92a1227ccc7157c7",
       "fromSide": "right",
       "toSide": "left",
       "fromEnd": "none",
@@ -614,9 +614,9 @@
       "label": "panel"
     },
     {
-      "id": "d6d8a726534c0a1a",
-      "fromNode": "34d9af1336a6f9db",
-      "toNode": "f1567596cb7574f4",
+      "id": "9f7ac1a8edbd40de",
+      "fromNode": "1cb8b9144d70c743",
+      "toNode": "1d0a9bce7107e56c",
       "fromSide": "right",
       "toSide": "left",
       "fromEnd": "none",
@@ -624,9 +624,9 @@
       "label": "panel"
     },
     {
-      "id": "2d0be7bfe9f7080c",
-      "fromNode": "053f850cfc53472a",
-      "toNode": "fab4fa0a81341fa1",
+      "id": "a4cecb81154523b0",
+      "fromNode": "9fe8d029b7e6b827",
+      "toNode": "71221b894479d7fd",
       "fromSide": "right",
       "toSide": "left",
       "fromEnd": "none",
@@ -634,9 +634,9 @@
       "label": "panel"
     },
     {
-      "id": "bf411b37ee4a804a",
-      "fromNode": "185d4a218106ab62",
-      "toNode": "e88840d15b7cb168",
+      "id": "bac5e3f14888e7fb",
+      "fromNode": "2c242651dfe37e14",
+      "toNode": "7f41ce75a57c7db8",
       "fromSide": "right",
       "toSide": "left",
       "fromEnd": "none",
@@ -644,9 +644,9 @@
       "label": "panel"
     },
     {
-      "id": "19ce257a0e8b995d",
-      "fromNode": "c1a8d3a6bda99bf7",
-      "toNode": "895b48dbf44130e6",
+      "id": "dcef0871257e7bc4",
+      "fromNode": "d7f0843b64c4ef0f",
+      "toNode": "253a74b5b69c7aa0",
       "fromSide": "right",
       "toSide": "left",
       "fromEnd": "none",
@@ -654,9 +654,9 @@
       "label": "panel"
     },
     {
-      "id": "bd42d67272b857a1",
-      "fromNode": "9c2a8db942daf5d2",
-      "toNode": "2c1a7be1833372e4",
+      "id": "eaa57e67521e3d94",
+      "fromNode": "a694c9053f6dd2be",
+      "toNode": "79e8ea6b62dd119d",
       "fromSide": "right",
       "toSide": "left",
       "fromEnd": "none",
@@ -664,9 +664,9 @@
       "label": "panel"
     },
     {
-      "id": "70169001840845c2",
-      "fromNode": "e6528fc16d6828f7",
-      "toNode": "14fbec9c11a5666c",
+      "id": "dc18a996efc2486c",
+      "fromNode": "d69a2f182306bebf",
+      "toNode": "d160ce9f03b8295b",
       "fromSide": "bottom",
       "toSide": "top",
       "fromEnd": "none",
@@ -674,173 +674,173 @@
       "label": "begin the tour"
     },
     {
-      "id": "482be97ee0bc8f7a",
-      "fromNode": "14fbec9c11a5666c",
-      "toNode": "bf5f8ab974c28009",
+      "id": "ea5ca91b81b6ea5f",
+      "fromNode": "d160ce9f03b8295b",
+      "toNode": "431c379cd8168efd",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "00d56b4eed940ab1",
+      "fromNode": "431c379cd8168efd",
+      "toNode": "54354e3de239f2ce",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "1d7887f5f4d6fe30",
+      "fromNode": "54354e3de239f2ce",
+      "toNode": "74f86a23bc7000f0",
       "fromSide": "right",
       "toSide": "left",
       "fromEnd": "none",
       "toEnd": "arrow"
     },
     {
-      "id": "de1dfad8fc3cfc39",
-      "fromNode": "bf5f8ab974c28009",
-      "toNode": "1ff384640b6cab97",
-      "fromSide": "bottom",
-      "toSide": "top",
-      "fromEnd": "none",
-      "toEnd": "arrow"
-    },
-    {
-      "id": "f6aca5f2df7dac22",
-      "fromNode": "1ff384640b6cab97",
-      "toNode": "d2f5b04b8cdc0952",
-      "fromSide": "left",
-      "toSide": "right",
-      "fromEnd": "none",
-      "toEnd": "arrow"
-    },
-    {
-      "id": "ce736bad842c5e9a",
-      "fromNode": "d2f5b04b8cdc0952",
-      "toNode": "995d091e6dd1b423",
-      "fromSide": "bottom",
-      "toSide": "top",
-      "fromEnd": "none",
-      "toEnd": "arrow"
-    },
-    {
-      "id": "248d2ae0a226bb43",
-      "fromNode": "995d091e6dd1b423",
-      "toNode": "48352eeb65ba8a03",
+      "id": "8d57309298c5b4ef",
+      "fromNode": "74f86a23bc7000f0",
+      "toNode": "d0a8d8a789c8ba33",
       "fromSide": "right",
       "toSide": "left",
       "fromEnd": "none",
       "toEnd": "arrow"
     },
     {
-      "id": "2745898ab125d9d0",
-      "fromNode": "48352eeb65ba8a03",
-      "toNode": "0ff2c6ab697de204",
-      "fromSide": "bottom",
-      "toSide": "top",
+      "id": "333bce4fbbddaf75",
+      "fromNode": "d0a8d8a789c8ba33",
+      "toNode": "49e95bcb236e14f7",
+      "fromSide": "top",
+      "toSide": "bottom",
       "fromEnd": "none",
       "toEnd": "arrow"
     },
     {
-      "id": "b1cd2a6bb5129139",
-      "fromNode": "0ff2c6ab697de204",
-      "toNode": "28705c34af794380",
-      "fromSide": "left",
-      "toSide": "right",
+      "id": "0c591ee0f52568fd",
+      "fromNode": "49e95bcb236e14f7",
+      "toNode": "809ac42dfda2f892",
+      "fromSide": "top",
+      "toSide": "bottom",
       "fromEnd": "none",
       "toEnd": "arrow"
     },
     {
-      "id": "2b5752ae0dfc94c4",
-      "fromNode": "28705c34af794380",
-      "toNode": "c0fa7651cad9fcaf",
-      "fromSide": "bottom",
-      "toSide": "top",
+      "id": "da1b35b530ae4b72",
+      "fromNode": "809ac42dfda2f892",
+      "toNode": "d25799d71c38d2b6",
+      "fromSide": "top",
+      "toSide": "bottom",
       "fromEnd": "none",
       "toEnd": "arrow"
     },
     {
-      "id": "4aad971ad7e7a705",
-      "fromNode": "c0fa7651cad9fcaf",
-      "toNode": "7aa67bc84c8c5b6a",
+      "id": "5f6798b565127b1d",
+      "fromNode": "d25799d71c38d2b6",
+      "toNode": "e3ba589a48d57b3c",
+      "fromSide": "top",
+      "toSide": "bottom",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "4b7552fbac7afca1",
+      "fromNode": "e3ba589a48d57b3c",
+      "toNode": "011b7a5d91727cb8",
+      "fromSide": "top",
+      "toSide": "bottom",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "b9e6aa11e63e99f2",
+      "fromNode": "011b7a5d91727cb8",
+      "toNode": "c0341698a6a05d4a",
       "fromSide": "right",
       "toSide": "left",
       "fromEnd": "none",
       "toEnd": "arrow"
     },
     {
-      "id": "bc367638281969f8",
-      "fromNode": "7aa67bc84c8c5b6a",
-      "toNode": "5f4d4b6798441cc2",
+      "id": "ed5d7cf745aad606",
+      "fromNode": "c0341698a6a05d4a",
+      "toNode": "c882ef24d26ebb83",
       "fromSide": "bottom",
       "toSide": "top",
       "fromEnd": "none",
       "toEnd": "arrow"
     },
     {
-      "id": "5c0e71101eca85b1",
-      "fromNode": "5f4d4b6798441cc2",
-      "toNode": "6abe207b4f057e5f",
-      "fromSide": "left",
-      "toSide": "right",
-      "fromEnd": "none",
-      "toEnd": "arrow"
-    },
-    {
-      "id": "dd0324efff3d494c",
-      "fromNode": "6abe207b4f057e5f",
-      "toNode": "755739db2ac23af5",
+      "id": "24bbb720ed6909fe",
+      "fromNode": "c882ef24d26ebb83",
+      "toNode": "127443acaa302c08",
       "fromSide": "bottom",
       "toSide": "top",
       "fromEnd": "none",
       "toEnd": "arrow"
     },
     {
-      "id": "d4e44dfbc511263e",
-      "fromNode": "755739db2ac23af5",
-      "toNode": "df1329eed12d00fd",
+      "id": "20a07465b743816b",
+      "fromNode": "127443acaa302c08",
+      "toNode": "a49d9ebd40f4b6f0",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "4f7844159321a680",
+      "fromNode": "a49d9ebd40f4b6f0",
+      "toNode": "917ebf94f35204b1",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "a9861a1957ada5d6",
+      "fromNode": "917ebf94f35204b1",
+      "toNode": "1cb8b9144d70c743",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "d823f27df4c643b0",
+      "fromNode": "1cb8b9144d70c743",
+      "toNode": "9fe8d029b7e6b827",
       "fromSide": "right",
       "toSide": "left",
       "fromEnd": "none",
       "toEnd": "arrow"
     },
     {
-      "id": "27bf3fabdf179eb5",
-      "fromNode": "df1329eed12d00fd",
-      "toNode": "96378e77d955f75b",
-      "fromSide": "bottom",
-      "toSide": "top",
-      "fromEnd": "none",
-      "toEnd": "arrow"
-    },
-    {
-      "id": "17ea5f1de11d1710",
-      "fromNode": "96378e77d955f75b",
-      "toNode": "34d9af1336a6f9db",
-      "fromSide": "left",
-      "toSide": "right",
-      "fromEnd": "none",
-      "toEnd": "arrow"
-    },
-    {
-      "id": "22312cdd14b1e317",
-      "fromNode": "34d9af1336a6f9db",
-      "toNode": "053f850cfc53472a",
-      "fromSide": "bottom",
-      "toSide": "top",
-      "fromEnd": "none",
-      "toEnd": "arrow"
-    },
-    {
-      "id": "35d37c1543b081bf",
-      "fromNode": "053f850cfc53472a",
-      "toNode": "185d4a218106ab62",
+      "id": "e8ac126b42415246",
+      "fromNode": "9fe8d029b7e6b827",
+      "toNode": "2c242651dfe37e14",
       "fromSide": "right",
       "toSide": "left",
       "fromEnd": "none",
       "toEnd": "arrow"
     },
     {
-      "id": "2f54a9799db7f45e",
-      "fromNode": "185d4a218106ab62",
-      "toNode": "c1a8d3a6bda99bf7",
-      "fromSide": "bottom",
-      "toSide": "top",
+      "id": "2a26ed6fd3cccfc2",
+      "fromNode": "2c242651dfe37e14",
+      "toNode": "d7f0843b64c4ef0f",
+      "fromSide": "top",
+      "toSide": "bottom",
       "fromEnd": "none",
       "toEnd": "arrow"
     },
     {
-      "id": "8f9387a7e78bffa2",
-      "fromNode": "c1a8d3a6bda99bf7",
-      "toNode": "9c2a8db942daf5d2",
-      "fromSide": "left",
-      "toSide": "right",
+      "id": "bb8a3ccb9ffa5122",
+      "fromNode": "d7f0843b64c4ef0f",
+      "toNode": "a694c9053f6dd2be",
+      "fromSide": "top",
+      "toSide": "bottom",
       "fromEnd": "none",
       "toEnd": "arrow"
     }
