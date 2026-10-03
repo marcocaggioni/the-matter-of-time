@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Virtual Tour - The Matter of Time</title>
+    <link rel="stylesheet" href="css/style.css">
+    <style>
+        html, body { height: 100%; }
+        body { display: flex; flex-direction: column; margin: 0; }
+        .navbar { flex: 0 0 auto; }
+        #viewer { flex: 1 1 auto; min-height: 0; }
+        #tour-hint {
+            flex: 0 0 auto; text-align: center; padding: 8px 12px;
+            font-size: 13px; color: #555; background: #fafafa;
+            border-top: 1px solid #e5e5e5;
+        }
+    </style>
+</head>
+<body>
+    <nav class="navbar">
+        <div class="nav-container">
+            <div class="logo">⏱️ The Matter of Time</div>
+            <ul class="nav-menu">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="panels.html">Panels</a></li>
+                <li><a href="tour.html" class="active">Virtual Tour</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <div id="viewer"></div>
+
+    <div id="tour-hint">
+        Drag to pan &middot; scroll to zoom &middot; follow the arrows from the trailer through all 20 panels
+        &middot; <a href="tour.canvas" download>download the .canvas file</a>
+    </div>
+
+    <script type="module">
+        import { JSONCanvasViewer, parser, fetchCanvas, Minimap, Controls }
+            from './viewer/chimp.js';
+
+        new JSONCanvasViewer(
+            {
+                container: document.getElementById('viewer'),
+                canvas: await fetchCanvas('tour.canvas'),
+                parser,
+                attachments: {
+  "extracted_images/page_001.png": "extracted_images/page_001.png",
+  "extracted_images/page_002.png": "extracted_images/page_002.png",
+  "extracted_images/page_003.png": "extracted_images/page_003.png",
+  "extracted_images/page_004.png": "extracted_images/page_004.png",
+  "extracted_images/page_005.png": "extracted_images/page_005.png",
+  "extracted_images/page_006.png": "extracted_images/page_006.png",
+  "extracted_images/page_007.png": "extracted_images/page_007.png",
+  "extracted_images/page_008.png": "extracted_images/page_008.png",
+  "extracted_images/page_009.png": "extracted_images/page_009.png",
+  "extracted_images/page_010.png": "extracted_images/page_010.png",
+  "extracted_images/page_011.png": "extracted_images/page_011.png",
+  "extracted_images/page_012.png": "extracted_images/page_012.png",
+  "extracted_images/page_013.png": "extracted_images/page_013.png",
+  "extracted_images/page_014.png": "extracted_images/page_014.png",
+  "extracted_images/page_015.png": "extracted_images/page_015.png",
+  "extracted_images/page_016.png": "extracted_images/page_016.png",
+  "extracted_images/page_017.png": "extracted_images/page_017.png",
+  "extracted_images/page_018.png": "extracted_images/page_018.png",
+  "extracted_images/page_019.png": "extracted_images/page_019.png",
+  "extracted_images/page_020.png": "extracted_images/page_020.png"
+},
+                theme: 'light',
+            },
+            [Minimap, Controls]
+        );
+    </script>
+    <script src="js/script.js"></script>
+</body>
+</html>
